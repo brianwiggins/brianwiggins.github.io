@@ -1,7 +1,7 @@
 ## Welcome to Brian's github page
 
 If you've made it this far, you're probably interested in Brian's professional ability.
-Unfortunately, you'll have to learn about his interests and hobbies and interests first.
+Unfortunately, you'll have to learn about his hobbies and interests first.
 
 
 ### About Brian 
