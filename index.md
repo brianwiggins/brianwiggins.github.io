@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Welcome to Brian's github page
 
-You can use the [editor on GitHub](https://github.com/brianwiggins/brianwiggins.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+If you've made it this far, you're probably interested in Brian's professional ability.
+Unfortunately, you'll have to learn about his interests and hobbies and interests first.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About Brian 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Brian's an avid outdoorsman and beer enthusiast who happens to also have a knack for software engineering. He's been Boise for the majority of his life now, and doesn't plan on leaving any time soon. Brian loves hunting, fishing, backpacking and skiing, but most of all, he loves spending time with his beloved cat, Stubbs. Brian studies Computer Science at Boise State University (expected graduation Dec 2021). At Boise State, he was a part of the mechanical engineering club, and he volunteered with `https://ystemandchess.com/` to help teach programming and logical thinking skills to kids in lower-income schools. Brian began getting into programming when he was required to take a CS class toward his Mechanical engineering degree, and his life was forever changed when he changed his major and got to work on some cool code. Software engineering would forever be his passion. Prior to the Covid-19 epidemic in the US, Brian attended Codeworks bootcamp in Boise, ID, where he learned a bunch of cool stuff. Alright, now you can check out his projects. 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Projects and proof of experience
 
-- Bulleted
-- List
+Go ahead and take a look at just a few of his public projects on github `(https://github.com/brianwiggins)`. Some that aren't hosted by github that he's really proud of are:
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+```darebear.herokuapp.com```
+Note that this site is a mobile-first developed application utilizing javascript and Node.js
 
-[Link](url) and ![Image](src)
-```
+```ukanban.herokuapp.com```
+An older project of Brian's, but something that he's really proud of. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brianwiggins/brianwiggins.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Wanna get in contact with Brian?
+You can shoot him an email @brianwiggins432@gmail.com. 
 
-### Support or Contact
+## Thanks for stopping by!
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
